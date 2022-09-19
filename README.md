@@ -7,7 +7,7 @@ I am Computer Engineer.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sevvaltiraslar) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/sevvaltiraslar/)
-[![LinkIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sevvaltiraslar/)
+[![LinkIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevvaltiraslar/)
 
 <!--
 **sevvaltiraslar/sevvaltiraslar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
