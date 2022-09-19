@@ -12,9 +12,6 @@ I graduated from Süleyman Demirel University. I am a computer engineer.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/friggestel)
 
 
-<!--
-**sevvaltiraslar/sevvaltiraslar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
