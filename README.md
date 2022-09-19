@@ -2,7 +2,7 @@
 
 I graduated from Süleyman Demirel University. I am a computer engineer.
 
-- 💻 I’m currently working on iOS.
+- 💻 I’m currently building app on Swift
 - 📫 How to reach me: sevvaltiraslar@gmial.com
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevvaltiraslar) 
